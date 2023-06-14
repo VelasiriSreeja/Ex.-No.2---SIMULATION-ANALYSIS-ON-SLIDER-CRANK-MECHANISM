@@ -44,9 +44,12 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![Screenshot (146)](https://github.com/VelasiriSreeja/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118344328/d71f6c53-85af-4102-b2f7-9e879dd56394)
 
 ![Screenshot (145)](https://github.com/VelasiriSreeja/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118344328/ac123612-6c6a-49a6-aa75-8bc178a4cecc)
+
+![Screenshot (146)](https://github.com/VelasiriSreeja/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/118344328/d71f6c53-85af-4102-b2f7-9e879dd56394)
+
+
 
 
 ### Name:v.sreeja
